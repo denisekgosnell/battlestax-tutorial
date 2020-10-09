@@ -26,7 +26,7 @@ Sweet! You have what you need to set up your localhost. Let's do that next.
 1. Copy and paste the contents of the `.env.template` file into an `.env` file:
 ```
 cd battlestax-tutorial
-cp .env.template .env
+cp .env.example .env
 ```
 2. Fill in the `.env` file variables with the Astra variables you made a copy of earlier
 
